@@ -1,1 +1,2 @@
-#Задание для Internet media gid.
+# Задание для Internet media gid.
+some desc
